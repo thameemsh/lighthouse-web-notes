@@ -2,3 +2,8 @@
 ## Summary 
 
 This repository contains all of the notes taken by [Mohamed](https://github.com/thameemsh) for the Lighthouse Labs Web Development Bootcamp.
+
+## Table of Contents
+* [Week1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
+  
